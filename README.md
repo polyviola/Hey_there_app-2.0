@@ -1,16 +1,14 @@
 # hey_there_app
 
-A new Flutter project.
+This Flutter application displays the text "Hey there" in the middle of the screen. Tap anywhere and a background color will change.
 
-## Getting Started
+## Features of the project
 
-This project is a starting point for a Flutter application.
+* The application has its own icon;
 
-A few resources to get you started if this is your first Flutter project:
+* The text color is always in contrast with the background color to avoid illegibility.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Getting started
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter, view
+[online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on mobile development, and a full API reference.
