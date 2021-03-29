@@ -6,9 +6,9 @@ This Flutter application displays the text "Hey there" in the middle of the scre
 
 * The application has its own icon;
 
-* The text color is always in contrast with the background color to avoid illegibility.
+* Random text color for each letter.
 
-![Screenshot](android/app/src/main/res/ScreenRec.gif)
+![Screenshot](android/app/src/main/res/Rec.gif)
 
 ## Getting started
 
